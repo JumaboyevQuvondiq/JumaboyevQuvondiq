@@ -12,7 +12,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" height="250" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" height="200" />
 
 <br/>
 <br/>
