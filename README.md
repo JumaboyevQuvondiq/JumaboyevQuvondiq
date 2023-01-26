@@ -51,10 +51,7 @@
     <a href="#">
         <img alt="ASP.NET Core"
              src="https://img.shields.io/badge/ASP.NET CORE-%23EE4C2C.svg?style=flat&logo=ASP.NET Core&logoColor=white"/></a>
-    <a href="#">
-        <img alt="Entity%20Fraemwork%20Core"
-             src="https://img.shields.io/badge/Entity%20Fraemwork-092E20?style=flat&logo=Entity%20Fraemwork&logoColor=green"></a>
-    <a href="#">
+       <a href="#">
         <img alt="OpenCV"
              src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white"/></a>
     <a href="#">
